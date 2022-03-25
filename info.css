@@ -1,0 +1,31 @@
+#base {
+  margin-top: 100px;
+  background-color: ;
+  width: 1300px;
+  height: 20%;
+  margin-left: 200px;
+  text-align: center;
+  background-color: #FF7F50;
+  border-radius: 30px;
+}
+
+
+a.bottone {
+  color: #fff; /* colore del testo */
+  text-decoration: none; /* eliminare la sottolineatura del testo */
+  background: rgb(212,75,56); /* sfondo del bottone */
+  padding: .7em 1.5em; /* padding dal testo dal bordo del bottone */
+  outline: none; /*  eliminare bordo*/
+  border-radius: 40px;
+}
+a.bottone:hover { background: rgb(232,95,76); } /* cambio dello sfondo al passagio del mouse */
+a.bottone:active { background: rgb(152,15,0); } /* cambiare lo sfondo al premere bottone   */
+
+body{
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwtXdQoh4_R3fiKpIimhhu3XUyzl15h-6ocQ&usqp=CAU);
+  background-repeat: no-repeat;
+background-position: 0 0;
+-moz-background-size: cover;
+-webkit-background-size: cover;
+background-size: cover;
+}
