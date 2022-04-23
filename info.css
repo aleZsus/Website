@@ -1,6 +1,5 @@
 #base {
   margin-top: 100px;
-  background-color: ;
   width: 1000px;
   height: 20%;
   margin-left: 200px;
@@ -19,7 +18,7 @@ a.bottone {
   border-radius: 40px;
 }
 a.bottone:hover { background: rgb(232,95,76); } /* cambio dello sfondo al passagio del mouse */
-a.bottone:active { background: rgb(152,15,0); } /* cambiare lo sfondo al premere bottone   */
+a.bottone:active { background: #980f00; } /* cambiare lo sfondo al premere bottone   */
 
 body{
   background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwtXdQoh4_R3fiKpIimhhu3XUyzl15h-6ocQ&usqp=CAU);
